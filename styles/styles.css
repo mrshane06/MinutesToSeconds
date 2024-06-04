@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(133, 132, 167);
+}
+
+body{
+    border: solid;
+    border-radius: 20px;
+    width: 350px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+h1{
+    padding: 10px;
+}
+
+button{
+    width: 60px;
+}
